@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Teo</h1>
 <h3 align="center">Currently a Year 2 Computer Science Student at Nanyang Technological University</h3>
 
-- 🔭 I’m currently working on **desirable position sizing application for financial trading risk management.**
+- 🔭 I’m currently working on a **position sizing application for risk management of financial equities.**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
