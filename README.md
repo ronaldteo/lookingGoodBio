@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Teo</h1>
 <h3 align="center">Currently a Year 2 Computer Science Student at Nanyang Technological University</h3>
 
-<h2 align="center">Not limiting myself and exploring different fields of Computer Science.</h2>
+<h4 align="center">Not limiting myself and exploring different fields of Computer Science.</h4>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
