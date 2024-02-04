@@ -2,7 +2,7 @@
 <h3 align="center">Currently a Year 2 Computer Science Student at Nanyang Technological University</h3>
 <h4 align="center">Not limiting myself and exploring different fields of Computer Science.</h4>
 
-<br>
+<br><br>
 <p align="center"> 
 🌱 I’m currently learning <strong>JavaScript and React</strong>
 </p>
